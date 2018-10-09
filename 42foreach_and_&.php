@@ -9,7 +9,7 @@
     }
     print_r($arr);
 
-    // unset($v);
+    unset($v);
 
     foreach($arr as $v){        
 		echo $v . " ";    
