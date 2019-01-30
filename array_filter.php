@@ -11,3 +11,6 @@
 	print_r(array_filter($array2, function ($var){
 	    return(!($var & 1));
 	}));
+
+
+	ehco "ok";
