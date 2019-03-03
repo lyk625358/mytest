@@ -1,0 +1,3 @@
+[submodule "typora"]
+	path = typora
+	url = git@github.com:lyk625358/sub_typora.git
